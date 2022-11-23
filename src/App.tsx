@@ -12,12 +12,14 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://v.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn Reactg
         </a>
+
+        <p>New element was added</p>
       </header>
     </div>
   );
